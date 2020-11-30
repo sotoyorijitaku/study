@@ -29,4 +29,4 @@ class StringDatabase {
   }
 }
 
-console.log(typeof StringDatabase);
+console.log(typeof new StringDatabase());
